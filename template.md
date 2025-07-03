@@ -26,7 +26,7 @@ What's new in this paper? -> could be a new model, new data, new insights
 ## 🤔 Any Gaps?
 Gaps or areas for future research
 
-## 🧠 Pertanyaan Lanjutan
+## 🧠 Follow-up Questions
 List of any questions that came up while reading, for discussion or lead to further exploration.
 
 ## 🔗 Next Reads
