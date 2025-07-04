@@ -44,5 +44,6 @@ Chatbot Socratic yang merangsang kemampuan berpikir kritis siswa
 - Bikin metode evaluasi yang lebih baik dari yang sudah digunakan di penelitian ini
 - Investigasi jangka panjang dampak penggunaan chatbot socratic terhadap kemampuan berpikir kritis dan performansi akademik siswa
 
-## 🔗 Next Reads
-- Link to related paper
+## 🔗 Next Read
+- [K. Shridhar, J. Macina, M. El-Assady, T. Sinha, M. Kapur, M. Sachan, Automatic Generation of Socratic Subquestions for Teaching Math Word Problems, 2022.
+ArXiv:2211.12835](https://arxiv.org/abs/2211.12835)
